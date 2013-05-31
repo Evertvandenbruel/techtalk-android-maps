@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gpx Recorder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+	<string name="start">Start</string>
+	<string name="stop">Stop</string>
+	<string name="map">Map</string>
+	<string name="pause">Pause</string>
+	<string name="resume">Resume</string>
+	<string name="routes">Routes</string>
+</resources>
